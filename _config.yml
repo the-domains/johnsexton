@@ -1,7 +1,7 @@
 name: John Sexton
 favicon: null
 layout_spectrum: 0.9573821353260428
-typography_spectrum: 0.5188820660114288
+typography_spectrum: 0.75722
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.5818381474819034
-  lightness: 0.589682033052668
-  saturation: 0.016606329707428813
-  rhythmicContrast: 0.488406655844301
+  brandStrength: 1
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
